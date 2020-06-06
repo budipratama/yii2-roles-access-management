@@ -1,0 +1,21 @@
+{
+    "name": "budipratama/yii2-role-access-management",
+    "description": "Role Access Management",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","role access management"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Budi Pratama ",
+            "email": "boedipratama19@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "budipratama\\roleaccessmanagement\\": ""
+        }
+    }
+}
